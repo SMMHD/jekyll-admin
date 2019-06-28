@@ -20,4 +20,5 @@ Bug reports and pull requests are welcome on GitHub at <https://github.com/{{ si
 ## Improve this page
 
 Found a mistake? See something that can be made better? These docs are open source.
-Please help: <https://github.com/{{ site.github.repository_nwo }}/edit/master/docs/{{ page.path }}>.
+Please help:
+ <https://github.com/{{ site.github.repository_nwo }}/edit/master/docs/{{ page.path }}>.
